@@ -1,0 +1,14 @@
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
