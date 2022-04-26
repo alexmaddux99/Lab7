@@ -8,7 +8,7 @@ fetch("https://techy-api.vercel.app/api/json")
   })
   .then(data => {
     console.log(data);
-    displayMessage(data, "#\quote")
+    displayMessage(data, "#quote")
   })
 
   function displayMessage(data, container){
